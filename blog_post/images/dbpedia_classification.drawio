@@ -1,0 +1,164 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.2.2">
+  <diagram name="Overview" id="sJ-g0Jhmfr5Kxqyv7oRn">
+    <mxGraphModel dx="835" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-5" value="Large Language Model" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="-90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-41" value="Wikipedia Article Excerpt" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="-90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-42" value="The Eiffel Tower (/ˈaɪfəl/ ⓘ EYE-fəl; French: Tour Eiffel [tuʁ ɛfɛl] ⓘ) is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889." style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;verticalAlign=middle;fontFamily=Courier New;fontColor=#990000;spacing=12;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-43" value="Encyclopedia Article" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="230" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-84" value="Category" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="-90" width="120" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-85" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-84">
+          <mxGeometry y="30" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-86" value="Company" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-85">
+          <mxGeometry width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-87" value="&lt;div&gt;Natural&lt;/div&gt;&lt;div&gt;Place&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-85">
+          <mxGeometry x="60" width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-88" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-84">
+          <mxGeometry y="57" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-89" value="&lt;div&gt;Educational&lt;/div&gt;&lt;div&gt;Institution&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-88">
+          <mxGeometry width="60" height="26" as="geometry">
+            <mxRectangle width="60" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-90" value="Village" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-88">
+          <mxGeometry x="60" width="60" height="26" as="geometry">
+            <mxRectangle width="60" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-84">
+          <mxGeometry y="83" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-92" value="Artist" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-91">
+          <mxGeometry width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-93" value="Animal" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-91">
+          <mxGeometry x="60" width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-167" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-84">
+          <mxGeometry y="110" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-168" value="Athlete" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-167">
+          <mxGeometry width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-169" value="Plant" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-167">
+          <mxGeometry x="60" width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-94" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-84">
+          <mxGeometry y="137" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-95" value="OfficeHolder" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-94">
+          <mxGeometry width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-96" value="Album" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-94">
+          <mxGeometry x="60" width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-97" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-84">
+          <mxGeometry y="164" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-98" value="&lt;div&gt;Method Of&lt;/div&gt;&lt;div&gt;Transportation&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-97">
+          <mxGeometry width="60" height="26" as="geometry">
+            <mxRectangle width="60" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-99" value="Film" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-97">
+          <mxGeometry x="60" width="60" height="26" as="geometry">
+            <mxRectangle width="60" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-100" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-84">
+          <mxGeometry y="190" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-101" value="Building" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2;strokeWidth=1;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-100">
+          <mxGeometry width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-102" value="&lt;div&gt;Written&lt;/div&gt;&lt;div&gt;Work&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;fontStyle=2" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-100">
+          <mxGeometry x="60" width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-108" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="-30" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-7" value="The Eiffel Tower (/ˈaɪfəl/ ⓘ EYE-fəl; French: Tour Eiffel [tuʁ ɛfɛl] ⓘ) is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889. " style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingTop=18;spacingRight=75;align=left;spacingLeft=5;fontSize=8;spacing=2;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-108">
+          <mxGeometry width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-9" value="Eiffel Tower" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;spacingLeft=5;fontStyle=0;spacing=2;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-108">
+          <mxGeometry width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eiffel_Tower_at_Night.jpg/330px-Eiffel_Tower_at_Night.jpg;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-108">
+          <mxGeometry x="146.82000000000005" width="73.18" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-109" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="85" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-109">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-4" value=":)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;fontSize=30;fontStyle=1;spacingLeft=8;" vertex="1" parent="qZ6eyLl9_r6eJmfdMrAO-109">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qZ6eyLl9_r6eJmfdMrAO-4" target="qZ6eyLl9_r6eJmfdMrAO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-116" value="reads" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="qZ6eyLl9_r6eJmfdMrAO-112">
+          <mxGeometry x="-0.4321" y="2" relative="1" as="geometry">
+            <mxPoint x="8" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qZ6eyLl9_r6eJmfdMrAO-11" target="qZ6eyLl9_r6eJmfdMrAO-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="25" />
+              <mxPoint x="420" y="114" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-117" value="selects" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="qZ6eyLl9_r6eJmfdMrAO-113">
+          <mxGeometry x="-0.488" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-115" value="Building" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=2;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="60" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-126" value="&amp;nbsp;Qwen2.5-7B-Instruct " style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
