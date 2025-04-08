@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.2.9">
+  <diagram name="Overview" id="sJ-g0Jhmfr5Kxqyv7oRn">
+    <mxGraphModel dx="721" dy="1425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-5" value="LLM" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="485" y="-50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-41" value="Injury Description" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="290" y="-50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-42" value="The Eiffel Tower (/ˈaɪfəl/ ⓘ EYE-fəl; French: Tour Eiffel [tuʁ ɛfɛl] ⓘ) is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889." style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;verticalAlign=middle;fontFamily=Courier New;fontColor=#990000;spacing=12;spacingTop=0;spacingBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="160" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-43" value="Encyclopedia Article" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="147.5" y="230" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-108" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="300" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-7" value="Snow sport ski instructor was skiing with a guest on the Roundhouse Slope when the employee fell breaking a hip." style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingTop=0;spacingRight=5;align=left;spacingLeft=5;fontSize=8;spacing=2;" parent="qZ6eyLl9_r6eJmfdMrAO-108" vertex="1">
+          <mxGeometry width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-109" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="500" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" parent="qZ6eyLl9_r6eJmfdMrAO-109" vertex="1">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-4" value=":(" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;fontSize=30;fontStyle=1;spacingLeft=8;" parent="qZ6eyLl9_r6eJmfdMrAO-109" vertex="1">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-115" value="Building" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=2;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="500" y="133" width="60" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="qZ6eyLl9_r6eJmfdMrAO-126" value="&amp;nbsp;Qwen2.5-7B-Instruct " style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="380" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u8Faqzigld3H72MYslt7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qZ6eyLl9_r6eJmfdMrAO-7" target="qZ6eyLl9_r6eJmfdMrAO-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8Faqzigld3H72MYslt7-5" value="input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u8Faqzigld3H72MYslt7-4" vertex="1" connectable="0">
+          <mxGeometry x="0.0219" y="1" relative="1" as="geometry">
+            <mxPoint x="-4" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0n-PhOZAiHETHV6RHhw0-1" value="" style="group;verticalAlign=middle;align=center;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0n-PhOZAiHETHV6RHhw0-2" value="Fractures" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingTop=0;spacingRight=5;align=center;spacingLeft=5;fontSize=8;spacing=2;" vertex="1" parent="0n-PhOZAiHETHV6RHhw0-1">
+          <mxGeometry width="119.99999999999999" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0n-PhOZAiHETHV6RHhw0-3" value="Nature of Injury" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="-50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0n-PhOZAiHETHV6RHhw0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qZ6eyLl9_r6eJmfdMrAO-4" target="0n-PhOZAiHETHV6RHhw0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0n-PhOZAiHETHV6RHhw0-6" value="output" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0n-PhOZAiHETHV6RHhw0-5">
+          <mxGeometry x="-0.1453" y="1" relative="1" as="geometry">
+            <mxPoint x="3" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
